@@ -1,11 +1,10 @@
-<a id="readme-top"></a>
+<a id="readme-top"></a><br />
 
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">The Project Name</h1>
 </div>
 
 <ol>
@@ -22,6 +21,7 @@
       <li><a href="#installation">Installation</a></li>
     </ul>
   </li>
+  <li><a href="#tests">Tests</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#roadmap">Roadmap</a></li>
   <li><a href="#license">License</a></li>
@@ -93,9 +93,12 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Tests
 
+### Tests with strategy A
 
-<!-- USAGE EXAMPLES -->
+### Tests with strategy B
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
