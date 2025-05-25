@@ -22,7 +22,9 @@
     </ul>
   </li>
   <li><a href="#tests">Tests</a></li>
+  <li><a href="#codestyle">Code Style</a></li>
   <li><a href="#usage">Usage</a></li>
+  <li><a href="#deployment">Deployment</a></li>
   <li><a href="#roadmap">Roadmap</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contact">Contact</a></li>
@@ -99,11 +101,25 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ### Tests with strategy B
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Code Style
+
+How to run the code style fixer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Deployment
+
+How this project can be deployed and run in Production.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +135,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
