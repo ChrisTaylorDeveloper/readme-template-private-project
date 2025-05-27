@@ -19,10 +19,12 @@
     <ul>
       <li><a href="#prerequisites">Prerequisites</a></li>
       <li><a href="#installation">Installation</a></li>
+      <li><a href="#database-migrations">Database Migrations</a></li>
     </ul>
   </li>
   <li><a href="#tests">Tests</a></li>
   <li><a href="#codestyle">Code Style</a></li>
+  <li><a href="#source-code-documentation">Source Code Documentation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#deployment">Deployment</a></li>
   <li><a href="#roadmap">Roadmap</a></li>
@@ -93,6 +95,10 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
+### Database Migrations
+
+How to run the database migrations.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Tests
@@ -106,6 +112,12 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Code Style
 
 How to run the code style fixer.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Source Code Documentation
+
+How to generate source code documentation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
